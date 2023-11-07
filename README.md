@@ -1,4 +1,3 @@
-ChatGPT
 Bot Army Management App
 
 This is a simple web application for managing a bot army. The app allows users to view a collection of available bots, enlist them in their own bot army, release enlisted bots, and delete bots from the collection. The app is built using React.
